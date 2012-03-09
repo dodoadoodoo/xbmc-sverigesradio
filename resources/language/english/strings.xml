@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>	
+	<!--Settings-->
+	<string id="2001">Quality</string>
+	<string id="2002">Protocol</string>
+	<string id="2111">Low</string>
+	<string id="2112">Normal</string>
+	<string id="2113">High</string>
+	<string id="2121">http</string>
+	<string id="2122">rtsp</string>
+</strings>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="Settings">
+		<setting id="quality" type="enum" label="2001" default="2" lvalues="2111|2112|2113"/>
+		<setting id="protocol" type="enum" label="2002" default="0" lvalues="2121|2122"/>
+	</category>
+</settings>
